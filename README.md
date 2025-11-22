@@ -2,7 +2,8 @@
 
 This is a responsive (mobile-friendly) cryptocurrency project landing page developed using modern HTML5, CSS3, and Bootstrap frameworks.
 
-![Project Preview](images/ekran_goruntusu.png)
+![Project Preview] 
+(images/ekran_goruntusu.png)
 
 ## 📖 About the Project
 
