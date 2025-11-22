@@ -2,9 +2,6 @@
 
 This is a responsive (mobile-friendly) cryptocurrency project landing page developed using modern HTML5, CSS3, and Bootstrap frameworks.
 
-![Project Preview] 
-(images/ekran_goruntusu.png)
-
 ## 📖 About the Project
 
 Cryptoverse is a sample landing page design that offers users a modern and reliable interface. Bootstrap's powerful grid system and components have been used to create a fast and organized structure that looks great on any device.
